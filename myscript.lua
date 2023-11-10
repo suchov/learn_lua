@@ -29,6 +29,7 @@ print("I want to join string with number "..score)
 
 print("The value of name is = "..player1_name)
 
-some_number = math.floor(25/2)
+some_number = 25 // 2
+
 
 print(some_number)
